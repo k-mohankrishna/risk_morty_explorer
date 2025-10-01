@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/risk_morty_explorer/static/js/main.1e5835b7.js",
+    "index.html": "/risk_morty_explorer/index.html",
+    "main.1e5835b7.js.map": "/risk_morty_explorer/static/js/main.1e5835b7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1e5835b7.js"
+  ]
+}
