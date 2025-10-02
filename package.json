@@ -2,7 +2,7 @@
   "name": "rick-morty-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://k-mohankrishna.github.io/RN_MK",
+  "homepage": "https://k-mohankrishna.github.io/risk_morty_explorer",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
