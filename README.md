@@ -40,6 +40,9 @@ A React app built with **Material UI** and **React Query** to explore characters
 4. **Open in your browser at:**
    http://localhost:3000/risk_morty_explorer/#/character
 
+## Live Preview
+   https://k-mohankrishna.github.io/risk_morty_explorer/#/character
+
 **Screenshots**   
 ![alt text](Home.png)
 ![alt text](Details.png)
