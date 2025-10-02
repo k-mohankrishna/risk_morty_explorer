@@ -38,7 +38,7 @@ A React app built with **Material UI** and **React Query** to explore characters
    npm start
 
 4. **Open in your browser at:**
-   http://localhost:3000/character/
+   http://localhost:3000/risk_morty_explorer/#/character
 
 **Screenshots**   
 ![alt text](Home.png)
